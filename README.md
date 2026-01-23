@@ -2,6 +2,9 @@
 ## AI/Data Security Architecture Portfolio — Multi‑Cloud (AWS  Azure  GCP)
 Organizations are rapidly adopting AI to accelerate innovation, automate decision‑making, and unlock new business value. This shift introduces a new class of risks: *adversarial attacks*, *data poisoning*, *insecure model deployments*, *governance gaps*, and *AI‑specific incident response challenges*. Enterprises need leaders who can secure AI systems end‑to‑end — from data pipelines to model deployment to governance and monitoring.
 This portfolio demonstrates my ability to design, implement, and operationalize secure, compliant, and resilient AI ecosystems across AWS, Azure, and GCP. It includes hands‑on labs, multi‑cloud reference architectures, governance frameworks, adversarial testing environments, and real‑time monitoring solutions.
+
+[Link to full 12-week walkthrough](https://github.com/epatter1/AI_Data_Security_Architect_Program/blob/main/12_week_overview.md) of building an AI/Data Security Program
+
 ## Across five modules, this portfolio showcases:
 ### 1. AI Threat Modeling & Adversarial Testing
 Practical demonstrations of evasion, poisoning, extraction, inversion, and membership inference attacks across cloud platforms. Includes MITRE ATLAS mappings and risk scoring frameworks.
