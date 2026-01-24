@@ -80,8 +80,7 @@ Highlights:
 * Encryption (KMS, Key Vault, Cloud KMS)
 * Federated learning secure aggregation
 * Data poisoning detection
-* Value to hiring managers:
-* Shows mastery of securing data, pipelines, and distributed training.
+* Value to hiring managers: shows mastery of securing data, pipelines, and distributed training.
 
 ### Module 4 — AI Governance, Compliance & Policy-as-Code
 
@@ -93,8 +92,7 @@ Highlights:
 * GDPR/HIPAA compliance mapping
 * Policy-as-code (AWS SCPs, Azure Policy, GCP Org Policies)
 * AI risk register + use case intake
-* Value to hiring managers:
-* Positions you as a leader capable of shaping enterprise AI governance.
+* Value to hiring managers: positions you as a leader capable of shaping enterprise AI governance.
 
 ### Module 5 — AI Monitoring, Detection & Incident Response
 
@@ -106,8 +104,7 @@ Highlights:
 * Prompt anomaly detection
 * Automated remediation (Lambda, Logic Apps, Cloud Functions)
 * AI breach simulation
-* Value to hiring managers:
-* Shows operational maturity and readiness for real-world AI incidents.
+* Value to hiring managers: shows operational maturity and readiness for real-world AI incidents.
 
 ## 🎯 Who This Portfolio Is For
 
