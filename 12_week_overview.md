@@ -55,8 +55,7 @@ Highlights:
 * MITRE ATLAS + OWASP LLM Top 10 mapping
 * Cloud-specific attack surfaces (SageMaker, Azure ML, Vertex AI)
 * AI risk scoring engine
-* Value to hiring managers:
-* Shows deep understanding of AI threats and real-world adversarial behavior.
+* Value to hiring managers: shows deep understanding of AI threats and real-world adversarial behavior.
 
 ### Module 2 — AI Model Defense & Hardening Toolkit
 
