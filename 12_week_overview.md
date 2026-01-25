@@ -1,6 +1,6 @@
 # 12-week roadmap for AI/Data Security Architect Portfolio
 
-This roadmap is part of a [AI Security Architect Portfolio](https://github.com/epatter1/AI_Data_Security_Architect_Program) designed for hiring managers and clients.
+This roadmap is part of a [AI/Data Security Architect Portfolio](https://github.com/epatter1/AI_Data_Security_Architect_Program) designed for hiring managers and clients.
 
 ## AI/Data Security Architect Portfolio (AWS | Azure | GCP)
 
