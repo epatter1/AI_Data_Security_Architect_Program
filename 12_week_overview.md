@@ -47,7 +47,7 @@ Each module includes:
 
 ### Module 1 — AI Threat Modeling & Attack Lab (Multi‑Cloud)
 
-Hands-on demonstrations of AI attack vectors across AWS, Azure, and GCP.
+[Hands-on demonstrations](https://github.com/epatter1/Threat_Lab_Repo_and_AI_Risk_Assessement) of AI attack vectors across AWS, Azure, and GCP.
 
 Highlights:
 
@@ -139,7 +139,7 @@ A structured plan that mirrors a real AI Security Program rollout.
 * Create threat models + risk scoring engine
 * Document findings with diagrams and case studies
 #### Deliverables:
-Threat Lab Repo + AI Risk Assessment Template
+[Threat Lab Repo + AI Risk Assessment Template](https://github.com/epatter1/Threat_Lab_Repo_and_AI_Risk_Assessement)
 
 ### Weeks 3–4 — Module 2: Defense Toolkit
 
