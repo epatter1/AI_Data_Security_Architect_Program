@@ -4,7 +4,7 @@ This roadmap is part of a [AI/Data Security Architect Portfolio](https://github.
 
 ## AI/Data Security Architect Portfolio (AWS | Azure | GCP)
 
-Welcome — this portfolio showcases my work as a Security Engineering Leader and AI/Data Security Architect, focused on building secure, compliant, and resilient AI systems across AWS, Azure, and GCP.
+Welcome — this portfolio showcases a glipmse of my abilities as an AI/Data Security Architect, focused on building secure, compliant, and resilient AI systems across AWS, Azure, and GCP.
 
 This repository contains hands‑on labs, reference architectures, governance frameworks, and incident response simulations that demonstrate my ability to:
 
