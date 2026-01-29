@@ -1,4 +1,4 @@
-# 12-week roadmap for AI/Data Security Architect Portfolio
+# 12-week roadmap for AI/Data Security Program
 
 This roadmap is part of a [AI/Data Security Architect Portfolio](https://github.com/epatter1/AI_Data_Security_Architect_Program) designed for hiring managers and clients.
 
@@ -21,15 +21,15 @@ This repository contains hands‑on labs, reference architectures, governance fr
 /ai-security-architect-portfolio
 │
 
-├── module1-threat-lab-multicloud
+├── module1-threat-lab-multicloud ![Static Badge](https://img.shields.io/badge/Status-Ready-Green?style=for-the-badge)
 
-├── module2-defense-toolkit-multicloud
+├── module2-defense-toolkit-multicloud ![Static Badge](https://img.shields.io/badge/Status-In%20Progress-%230969DA?style=for-the-badge)
 
-├── module3-secure-data-pipelines-multicloud
+├── module3-secure-data-pipelines-multicloud ![Static Badge](https://img.shields.io/badge/Status-Coming%20Soon-grey?style=for-the-badge&color=black)
 
-├── module4-governance-framework-multicloud
+├── module4-governance-framework-multicloud ![Static Badge](https://img.shields.io/badge/Status-Coming%20Soon-grey?style=for-the-badge&color=black)
 
-├── module5-monitoring-ir-multicloud
+├── module5-monitoring-ir-multicloud ![Static Badge](https://img.shields.io/badge/Status-Coming%20Soon-grey?style=for-the-badge&color=black)
 
 │
 
@@ -45,7 +45,7 @@ Each module includes:
 
 ## 🌩️ Module Overview
 
-### Module 1 — AI Threat Modeling & Attack Lab (Multi‑Cloud)
+### Module 1 — AI Threat Modeling & Attack Lab (Multi‑Cloud) 
 
 [Hands-on demonstrations](https://github.com/epatter1/Threat_Lab_Repo_and_AI_Risk_Assessement) of AI attack vectors across AWS, Azure, and GCP.
 
