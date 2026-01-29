@@ -55,7 +55,8 @@ Highlights:
 * MITRE ATLAS + OWASP LLM Top 10 mapping
 * Cloud-specific attack surfaces (SageMaker, Azure ML, Vertex AI)
 * AI risk scoring engine
-* Value to hiring managers: shows deep understanding of AI threats and real-world adversarial behavior.
+
+<ins>Value to hiring managers</ins>: shows deep understanding of ***AI threats and real-world adversarial behavior***.
 
 ### Module 2 — AI Model Defense & Hardening Toolkit
 
@@ -67,8 +68,8 @@ Highlights:
 * Differential privacy
 * Input validation & anomaly detection
 * Robustness evaluation dashboard
-* Value to hiring managers:
-* Demonstrates the ability to build resilient, production-ready AI systems.
+
+<ins>Value to hiring managers</ins>: demonstrates the ability to ***build resilient, production-ready AI systems***.
 
 ### Module 3 — Secure AI Data Pipelines & Training Environments
 
@@ -80,7 +81,8 @@ Highlights:
 * Encryption (KMS, Key Vault, Cloud KMS)
 * Federated learning secure aggregation
 * Data poisoning detection
-* Value to hiring managers: shows mastery of securing data, pipelines, and distributed training.
+
+<ins>Value to hiring managers</ins>: shows mastery of ***securing data, pipelines, and distributed training***.
 
 ### Module 4 — AI Governance, Compliance & Policy-as-Code
 
@@ -92,7 +94,8 @@ Highlights:
 * GDPR/HIPAA compliance mapping
 * Policy-as-code (AWS SCPs, Azure Policy, GCP Org Policies)
 * AI risk register + use case intake
-* Value to hiring managers: positions you as a leader capable of shaping enterprise AI governance.
+
+<ins>Value to hiring managers</ins>: strategically positions one as a ***leader capable of shaping enterprise AI governance***.
 
 ### Module 5 — AI Monitoring, Detection & Incident Response
 
@@ -104,7 +107,8 @@ Highlights:
 * Prompt anomaly detection
 * Automated remediation (Lambda, Logic Apps, Cloud Functions)
 * AI breach simulation
-* Value to hiring managers: shows operational maturity and readiness for real-world AI incidents.
+
+<ins>Value to hiring managers</ins>: shows ***operational maturity and readiness for real-world AI incidents***.
 
 ## 🎯 Who This Portfolio Is For
 
