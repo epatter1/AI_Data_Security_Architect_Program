@@ -99,7 +99,7 @@ Highlights:
 
 ### Module 5 — AI Monitoring, Detection & Incident Response
 
-Real-time monitoring and IR simulations across clouds.
+[Real-time monitoring and IR simulations across clouds](https://github.com/epatter1/Monitoring_IR_Repo_and_AI-Incident_Response_Playbook)
 
 Highlights:
 
@@ -179,7 +179,7 @@ A structured plan that mirrors a real AI Security Program rollout.
 * Create automated remediation workflows
 * Simulate an AI breach end-to-end
 #### Deliverables:
-Monitoring & IR Repo + AI Incident Response Playbook
+[Monitoring & IR Repo + AI Incident Response Playbook](https://github.com/epatter1/Monitoring_IR_Repo_and_AI-Incident_Response_Playbook)
 
 ## 🏁 Final Notes
 
