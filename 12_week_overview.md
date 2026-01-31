@@ -43,11 +43,11 @@ Each module includes:
 * Security documentation
 * Client-ready deliverables
 
-## 🌩️ Module Overview
+## 🌩️ Module Overview (with links to hands-on demos)
 
 ### Module 1 — AI Threat Modeling & Attack Lab (Multi‑Cloud) 
 
-[Hands-on demonstrations](https://github.com/epatter1/Threat_Lab_Repo_and_AI_Risk_Assessement) of AI attack vectors across AWS, Azure, and GCP.
+[AI attack vectors across AWS, Azure, and GCP](https://github.com/epatter1/Threat_Lab_Repo_and_AI_Risk_Assessement) 
 
 Highlights:
 
@@ -60,7 +60,7 @@ Highlights:
 
 ### Module 2 — AI Model Defense & Hardening Toolkit
 
-Defense strategies implemented across all three clouds.
+[Defense strategies implemented across all three clouds](https://github.com/epatter1/AI_Model_Defense_Hardening_Toolkit/blob/main/README.md)
 
 Highlights:
 
