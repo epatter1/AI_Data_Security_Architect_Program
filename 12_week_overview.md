@@ -132,7 +132,7 @@ This portfolio shows that I can:
 * Monitor and respond to AI-specific threats
 * Deliver clear documentation and executive-ready reports
 
-## 🗺️ 12‑Week Build Roadmap (Multi‑Cloud)
+## 🗺️ 12‑Week Build Roadmap
 
 A structured plan that mirrors a real AI Security Program rollout.
 
