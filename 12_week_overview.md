@@ -86,7 +86,7 @@ Highlights:
 
 ### Module 4 — AI Governance, Compliance & Policy-as-Code
 
-Enterprise-ready governance frameworks aligned to ISO 42001 and NIST AI RMF.
+[Enterprise-ready governance frameworks aligned to ISO 42001 and NIST AI RMF](https://github.com/epatter1/Enterprise_Ready_Governance_Frameworks/blob/main/README.md)
 
 Highlights:
 
@@ -152,27 +152,27 @@ A structured plan that mirrors a real AI Security Program rollout.
 * Build robustness evaluation dashboard
 * Compare defenses across clouds
 #### Deliverables:
-Defense Toolkit Repo + Model Hardening Playbook
+[Defense Toolkit Repo + Model Hardening Playbook](https://github.com/epatter1/AI_Model_Defense_Hardening_Toolkit/)
 
-### Weeks 5–7 — Module 3: Secure Data Pipelines
+### Weeks 5–6 — Module 3: Secure Data Pipelines
 
 * Build secure ingestion pipelines in AWS/Azure/GCP
 * Add encryption, tokenization, lineage tracking
 * Implement federated learning secure aggregation
 * Add poisoning detection scripts
 #### Deliverables:
-Secure Pipeline Repo + Data Security Architecture Diagrams
+[Secure AI Data Pipelines + Training Environments](https://github.com/epatter1/Secure_AI_Data_Pipelines_and_Training_Environments/)
 
-### Weeks 8–9 — Module 4: Governance & Compliance
+### Weeks 7–8 — Module 4: Governance & Compliance
 
 * Build ISO 42001 + NIST AI RMF-aligned framework
 * Create policy-as-code for all clouds
 * Add GDPR/HIPAA compliance mapping
 * Build AI risk register + intake workflow
 #### Deliverables:
-Governance Framework Repo + Executive Governance Deck
+[Governance Framework Repo + Executive Governance Deck](https://github.com/epatter1/Enterprise_Ready_Governance_Frameworks/blob/main/README.md)
 
-### Weeks 10–12 — Module 5: Monitoring & Incident Response
+### Weeks 9–12 — Module 5: Monitoring & Incident Response
 
 * Build drift + anomaly detection pipelines
 * Implement cloud-native monitoring integrations
