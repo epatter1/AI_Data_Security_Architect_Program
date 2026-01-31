@@ -25,11 +25,11 @@ This repository contains hands‑on labs, reference architectures, governance fr
 
 ├── module2-defense-toolkit-multicloud ![Static Badge](https://img.shields.io/badge/Status-Ready-Green?style=for-the-badge)
 
-├── module3-secure-data-pipelines-multicloud ![Static Badge](https://img.shields.io/badge/Status-In%20Progress-%230969DA?style=for-the-badge)
+├── module3-secure-data-pipelines-multicloud ![Static Badge](https://img.shields.io/badge/Status-Ready-Green?style=for-the-badge)
 
-├── module4-governance-framework-multicloud ![Static Badge](https://img.shields.io/badge/Status-Coming%20Soon-grey?style=for-the-badge&color=black)
+├── module4-governance-framework-multicloud ![Static Badge](https://img.shields.io/badge/Status-Ready-Green?style=for-the-badge)
 
-├── module5-monitoring-ir-multicloud ![Static Badge](https://img.shields.io/badge/Status-Coming%20Soon-grey?style=for-the-badge&color=black)
+├── module5-monitoring-ir-multicloud ![Static Badge](https://img.shields.io/badge/Status-In%20Progress-%230969DA?style=for-the-badge)
 
 │
 
