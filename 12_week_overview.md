@@ -60,7 +60,7 @@ Highlights:
 
 ### Module 2 — AI Model Defense & Hardening Toolkit
 
-[Defense strategies implemented across all three clouds](https://github.com/epatter1/AI_Model_Defense_Hardening_Toolkit/blob/main/README.md)
+[Defense strategies implemented across all three clouds](https://github.com/epatter1/AI_Model_Defense_Hardening_Toolkit/)
 
 Highlights:
 
@@ -73,7 +73,7 @@ Highlights:
 
 ### Module 3 — Secure AI Data Pipelines & Training Environments
 
-End-to-end secure data flows for AI workloads.
+[End-to-end secure data flows for AI workloads](https://github.com/epatter1/Secure_AI_Data_Pipelines_and_Training_Environments/)
 
 Highlights:
 
