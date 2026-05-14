@@ -1,6 +1,5 @@
 # Securing the AI Integration Layer: An Enterprise MCP Security Framework
 
----
 
 ## Executive Summary
 
