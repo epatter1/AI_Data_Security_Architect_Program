@@ -1,8 +1,5 @@
 # Securing the AI Integration Layer: An Enterprise MCP Security Framework
 
-**Elisha Patterson, CISSP | AI/ML Security Architect**
-*AWS Certified AI Practitioner | Azure Data Scientist Associate | CompTIA Security+*
-
 ---
 
 ## Executive Summary
